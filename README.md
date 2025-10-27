@@ -28,7 +28,7 @@ Familiarizarse con la estructura y sintaxis de React Native.
 
 Aplicar el uso de hooks (useState) para manejar el estado de la aplicación.
 
-## ❤️ Forma de ejecución:
+## ❤️ Ejecución:
 
 En consola: 
 
