@@ -28,14 +28,19 @@ Familiarizarse con la estructura y sintaxis de React Native.
 
 Aplicar el uso de hooks (useState) para manejar el estado de la aplicación.
 
+Desarrollar lógica condicional simple y visualización dinámica en función del estado.
+
+Construir una aplicación funcional sin necesidad de backend o persistencia de datos.
+
 ## ❤️ Ejecución:
 
 En consola: 
 
 cd my-app
 
-npx expo start --tunnel o  npx expo start -c    
+npx expo start --tunnel o  npx expo start -c  
 
-Desarrollar lógica condicional simple y visualización dinámica en función del estado.
+## ¿Qué hice?
+Modifiqué el script _layout.tsx para hacer la parte "visual" del juego, en esa parte realizo la lógica de los llamados a las funciones, funciones y hooks los cuales se encuentran en la carpeta hooks en un script llamado "useTicTacToe", unifiqué mi script principal con el proporcionado en las partes que me parecía que lo proporcionado funcionaba mejor y era más sencillo. Como resultado obtuve una aplicación tanto web como mobile del tateti la cual indica ganador, perdedor y en caso de empate, empate.
 
-Construir una aplicación funcional sin necesidad de backend o persistencia de datos.
+
